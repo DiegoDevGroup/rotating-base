@@ -1,4 +1,4 @@
-<?php namespace DiegoDevGroup\Rotating;
+<?php namespace DiegoDevGroup\RotatingBase;
 
 /**
 *  A sample class
