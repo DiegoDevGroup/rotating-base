@@ -1,0 +1,24 @@
+{
+    "name": "diegodevgroup/rotating-base",
+    "description": "Base class for rotating functions.",
+    "keywords": [],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Congdon",
+            "email": "john@diegodev.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=5.4"
+    },
+	"require-dev": {
+		"phpunit/phpunit": "5.2.*"
+    },
+	"autoload": {
+        "psr-4": {
+            "DiegoDev\\Rotating\\": "src/"
+        }
+    }
+}
